@@ -1,32 +1,16 @@
 {
 	"games": [
-		{
-			"genre1": [
+	{
+		"genreName": "exampleGenreName",
+		"data": {
+			"includedGames": [
 				{
-					"gameTitle": "game1",
-					"publisher": "TestAnotherActionPublisher",
-					"platform": "TestAnotherActionPlatform"
-				},
-				{
-					"gameTitle": "game2",
-					"publisher": "Rockstar Games",
-					"platform": "PC, PS4"
-				}
-			]
-		},
-		{
-			"genre2": [
-				{
-					"gameTitle": "game1",
-					"publisher": "Nintendo",
-					"platform": "Switch"
-				},
-				{
-					"gameTitle": "game2",
-					"publisher": "JnR Games",
-					"platform": "PC, PS4, xBox"
+					"gameTitle": "exampleGameTitle",
+					"publisher": "examplePublisher",
+					"platform": "examplePlatform"
 				}
 			]
 		}
-	]
+	}
+]
 }
