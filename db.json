@@ -1,26 +1,30 @@
-{
-	"from Server Action Adventure": [
-		{
-			"gameTitle": "AnotherActionAdventure 123",
-			"publisher": "TestAnotherActionPublisher",
-			"platform": "TestAnotherActionPlatform"
-		},
-		{
-			"gameTitle": "GTA V",
-			"publisher": "Rockstar Games",
-			"platform": "PC, PS4"
-		}
-	],
-	"Jump 'n' Run": [
-		{
-			"gameTitle": "Super Mario Odysee",
-			"publisher": "Nintendo",
-			"platform": "Switch"
-		},
-		{
-			"gameTitle": "AnotherJnR",
-			"publisher": "JnR Games",
-			"platform": "PC, PS4, xBox"
-		}
-	]
-}
+[
+	{
+		"genre1": [
+			{
+				"gameTitle": "game1",
+				"publisher": "TestAnotherActionPublisher",
+				"platform": "TestAnotherActionPlatform"
+			},
+			{
+				"gameTitle": "game2",
+				"publisher": "Rockstar Games",
+				"platform": "PC, PS4"
+			}
+		]
+	},
+	{
+		"genre2": [
+			{
+				"gameTitle": "game1",
+				"publisher": "Nintendo",
+				"platform": "Switch"
+			},
+			{
+				"gameTitle": "game2",
+				"publisher": "JnR Games",
+				"platform": "PC, PS4, xBox"
+			}
+		]
+	}
+]
