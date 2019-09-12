@@ -27,10 +27,24 @@
 						"platform": "PC"
 					},
 					{
+
+                                                "gameTitle": "ein weiteres Action Adventure Game",
+                                                "publisher": "Rockstar Games",
+                                                "platform": "PC"
+
+                                        },
+					{
 						"gameTitle": "AA-Game II",
 						"publisher": "AA-Studio Games",
 						"platform": "PC, PS4"
-					}
+					},
+					{
+
+                                                "gameTitle": "AA-Game III",
+                                                "publisher": "AA-Studio Games",
+                                                "platform": "PC, PS4"
+
+                                        }
 				]
 			}
 		}
