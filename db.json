@@ -2,51 +2,43 @@
 	"allGamesGroupByGenre": [
 		{
 			"genreName": "RPG",
-			"data": {
-				"includedGames": [
-					{
-						"gameTitle": "ein Wunderschönes RPG Game",
-						"publisher": "Bethesta",
-						"platform": "PC"
-					},
-					{
-						"gameTitle": "RPG Adventure Teil II",
-						"publisher": "RPG-Studio Games",
-						"platform": "PC, PS4"
-					}
-				]
-			}
+			"includedGames": [
+				{
+					"gameTitle": "ein Wunderschönes RPG Game",
+					"publisher": "Bethesta",
+					"platform": "PC"
+				},
+				{
+					"gameTitle": "RPG Adventure Teil II",
+					"publisher": "RPG-Studio Games",
+					"platform": "PC, PS4"
+				}
+			]
 		},
 		{
 			"genreName": "Action Adventure",
-			"data": {
-				"includedGames": [
-					{
-						"gameTitle": "ein wunderschönes Action Adventure Game",
-						"publisher": "Rockstar Games",
-						"platform": "PC"
-					},
-					{
-
-                                                "gameTitle": "ein weiteres Action Adventure Game",
-                                                "publisher": "Rockstar Games",
-                                                "platform": "PC"
-
-                                        },
-					{
-						"gameTitle": "AA-Game II",
-						"publisher": "AA-Studio Games",
-						"platform": "PC, PS4"
-					},
-					{
-
-                                                "gameTitle": "AA-Game III",
-                                                "publisher": "AA-Studio Games",
-                                                "platform": "PC, PS4"
-
-                                        }
-				]
-			}
+			"includedGames": [
+				{
+					"gameTitle": "ein wunderschönes Action Adventure Game",
+					"publisher": "Rockstar Games",
+					"platform": "PC"
+				},
+				{
+					"gameTitle": "ein weiteres Action Adventure Game",
+					"publisher": "Rockstar Games",
+					"platform": "PC"
+				},
+				{
+					"gameTitle": "AA-Game II",
+					"publisher": "AA-Studio Games",
+					"platform": "PC, PS4"
+				},
+				{
+					"gameTitle": "AA-Game III",
+					"publisher": "AA-Studio Games",
+					"platform": "PC, PS4"
+				}
+			]
 		}
 	]
 }
